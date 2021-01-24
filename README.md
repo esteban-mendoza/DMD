@@ -1,6 +1,6 @@
 # Introducción a _Dynamic Mode Decomposition_
-## Jorge Esteban Mendoza Ortiz - Faculta de Ciencias
-## Universidad Nacional Autónoma de México
+Jorge Esteban Mendoza Ortiz - esteban.mendoza@ciencias.unam.mx
+Facultad de Ciencias - Universidad Nacional Autónoma de México
 
 El código y los datos contenidos en este repositorio se basan en el código del Capítulo 2 del libro _Dynamic Mode Decomposition: Data-Driven Modeling of Complex Systems_ de J. Nathan Kutz, Steven L. Brunton, Bingni W. Brunton y Joshua L. Proctor. 
 
